@@ -1,4 +1,5 @@
 # Betternet ISP Billing with Mikrotik API
+
 Manage your ISP billing operations with ease using Betternet, a powerful and comprehensive software designed specifically for Internet Service Providers. With an array of robust features, Betternet streamlines your billing processes, enhances user management, and ensures efficient payment handling. Integration with Mikrotik API helps you to automate some of the core functionalities straight from within the application. Take your ISP business to new heights with Betternet’s advanced capabilities:
 
 ### Features
@@ -44,5 +45,7 @@ Manage your ISP billing operations with ease using Betternet, a powerful and com
 -   User credentials with api access
 
 ### DEMO LOGIN
+
 Admin login: admin@betternet.com
+
 Password: password
