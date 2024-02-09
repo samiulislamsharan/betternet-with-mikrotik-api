@@ -42,3 +42,7 @@ Manage your ISP billing operations with ease using Betternet, a powerful and com
 -   API services enable
 -   Firewalls allow port 8728 for API communication
 -   User credentials with api access
+
+### DEMO LOGIN
+Admin login: admin@betternet.com
+Password: password
